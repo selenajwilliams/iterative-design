@@ -23,14 +23,14 @@ body {
   #logoBar {
     width: 100%;
     text-align: center;
-    padding: 20px;
+    /* padding: 20px; */
     background-color: #222;
     color: white;
   }
   
   main {
     width: 80%;
-    max-width: 1200px;
+    /* max-width: 1200px; */
     margin: 20px auto;
   }
   
@@ -54,7 +54,6 @@ a:hover, a:active {
   .screenshots {
     text-align: center;
     justify-content: center;
-    background-color: green;
     
   }
 
