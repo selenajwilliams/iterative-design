@@ -41,6 +41,16 @@ body {
     margin: 20px auto;
   }
   
+a {
+    color: #c70566;
+    font-weight: bold;
+    /* text-decoration: none; */
+}
+
+a:hover, a:active {
+    color: #fb429e;
+}
+
   section {
     margin-bottom: 40px;
     padding: 20px;
